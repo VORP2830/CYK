@@ -29,6 +29,3 @@ Entradas
 Saída
 
     True se a palavra pertence à gramática, False caso contrário.
-    
-# Exemplo de uso
-
