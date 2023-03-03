@@ -1,0 +1,2 @@
+S => AA|AS|b
+A => SA|AS|a
